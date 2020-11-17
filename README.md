@@ -1,4 +1,4 @@
-## Kucing & Anjing Pedia | v 2
+## Tugas Pet Pedia : Kucing, Anjing & Ayam Pedia | by Mita Nadia
 
 Contoh aplikasi android sederhana dengan 2 activity yang mendemonstrasikan:
 * Cara mengirim informasi dari satu activity ke activity lainnya melalui extra pada Intent, 
